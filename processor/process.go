@@ -42,7 +42,7 @@ var (
 		"-stream_loop", "-1",
 		"-loglevel", "error",
 		"-i", "",
-		"-preset", "ultrafast",
+		"-preset", "slow",
 		"-c:v", "libx264",
 		"-c:a", "aac",
 		"-f", "flv",
